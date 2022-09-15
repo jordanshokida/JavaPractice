@@ -1,0 +1,7 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Éƒ¸¸úÿÿÿÿ
+i
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(Ú‰ã´8æ¦×™³0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½Ï²ıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ç˜Æ

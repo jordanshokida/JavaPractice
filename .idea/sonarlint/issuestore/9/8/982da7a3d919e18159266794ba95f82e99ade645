@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÏ«æüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼©”ß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­žç­ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Á–¯•
+N
+java:S1128"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊþÿÿÿÿ

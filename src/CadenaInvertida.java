@@ -8,9 +8,9 @@ public class CadenaInvertida {
         frase = strb.reverse().toString();
         System.out.println(frase);*/
 
-        String frase = "Cadena a invertir";
+       String frase = "Cadena a invertir";
         System.out.println(frase);
-        String fraseInvertida= "";
+        String fraseInvertida = "";
         for (int i = frase.length() - 1; i >= 0; i--) {
 
             fraseInvertida += frase.charAt(i);
